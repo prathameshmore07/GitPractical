@@ -1,3 +1,2 @@
 Hello
-Added new line
 Line added directly on GitHub
